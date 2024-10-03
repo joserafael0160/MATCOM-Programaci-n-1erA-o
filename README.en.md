@@ -72,7 +72,7 @@ As a first-year student, my goal is to share valuable educational resources that
   - <a href="https://github.com/joserafael0160/MATCOM-Programacion-1/blob/main/Clases%20Pr%C3%A1cticas/CP%20%2301/Soluciones/cp1_respuestas.pdf">Solutions</a>
 - **CP #02**
   - <a href="https://github.com/joserafael0160/MATCOM-Programacion-1/blob/main/Clases%20Pr%C3%A1cticas/CP%20%2302/cp2%20-%20Hello%20World.pdf">Exercises</a>
-  - <a href="./Clases Prácticas/CP #02/Soluciones/">Solutions</a>
+  - <a href="https://github.com/joserafael0160/MATCOM-Programacion-1/blob/main/Clases%20Pr%C3%A1cticas/CP%20%2302/Soluciones/">Solutions</a>
   
 <p align="right">(<a href="#top">Back to the top 🔝</a>)</p>
 
