@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/Hello World!/Hello World!.csproj": {}
+    "/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/01-Hello World!/01-Hello World!.csproj": {}
   },
   "projects": {
-    "/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/Hello World!/Hello World!.csproj": {
+    "/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/01-Hello World!/01-Hello World!.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/Hello World!/Hello World!.csproj",
-        "projectName": "Hello World!",
-        "projectPath": "/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/Hello World!/Hello World!.csproj",
+        "projectUniqueName": "/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/01-Hello World!/01-Hello World!.csproj",
+        "projectName": "01-Hello World!",
+        "projectPath": "/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/01-Hello World!/01-Hello World!.csproj",
         "packagesPath": "/home/jose/.nuget/packages/",
-        "outputPath": "/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/Hello World!/obj/",
+        "outputPath": "/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/01-Hello World!/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jose/.nuget/NuGet/NuGet.Config"
