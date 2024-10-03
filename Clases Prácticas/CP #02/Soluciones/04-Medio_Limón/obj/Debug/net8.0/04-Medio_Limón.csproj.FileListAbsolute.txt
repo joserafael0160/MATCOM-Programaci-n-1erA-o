@@ -1,0 +1,15 @@
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/04-Medio_Limón/bin/Debug/net8.0/04-Medio_Limón
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/04-Medio_Limón/bin/Debug/net8.0/04-Medio_Limón.deps.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/04-Medio_Limón/bin/Debug/net8.0/04-Medio_Limón.runtimeconfig.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/04-Medio_Limón/bin/Debug/net8.0/04-Medio_Limón.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/04-Medio_Limón/bin/Debug/net8.0/04-Medio_Limón.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/04-Medio_Limón/obj/Debug/net8.0/04-Medio_Limón.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/04-Medio_Limón/obj/Debug/net8.0/04-Medio_Limón.AssemblyInfoInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/04-Medio_Limón/obj/Debug/net8.0/04-Medio_Limón.AssemblyInfo.cs
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/04-Medio_Limón/obj/Debug/net8.0/04-Medio_Limón.csproj.CoreCompileInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/04-Medio_Limón/obj/Debug/net8.0/04-Medio_Limón.sourcelink.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/04-Medio_Limón/obj/Debug/net8.0/04-Medio_Limón.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/04-Medio_Limón/obj/Debug/net8.0/refint/04-Medio_Limón.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/04-Medio_Limón/obj/Debug/net8.0/04-Medio_Limón.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/04-Medio_Limón/obj/Debug/net8.0/04-Medio_Limón.genruntimeconfig.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/04-Medio_Limón/obj/Debug/net8.0/ref/04-Medio_Limón.dll
