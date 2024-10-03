@@ -52,9 +52,9 @@
 
 
 ## 📜 Acerca Del Repositorio 
-Hola, soy José Rafael 👋.
+Hola, soy **José Rafael** (C112) 👋.
 
-Este repositorio contiene los ejercicios y mis soluciones de las clases prácticas que recibo en la Facultad de Matemática y Computación (MATCOM) de la Universidad de La Habana (UH). 
+Este repositorio contiene los **ejercicios y mis soluciones** de las clases prácticas que recibo en la Facultad de Matemática y Computación (MATCOM) de la Universidad de La Habana (UH). 
 
 Como estudiante de primer año, mi objetivo es compartir recursos educativos valiosos que puedan ayudar a otros estudiantes a comprender mejor los conceptos y técnicas enseñados en nuestras clases 🎓.
 
