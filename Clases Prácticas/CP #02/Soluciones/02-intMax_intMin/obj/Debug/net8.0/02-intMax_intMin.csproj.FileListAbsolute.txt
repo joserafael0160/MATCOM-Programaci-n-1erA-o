@@ -1,0 +1,15 @@
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/02-intMax_intMin/bin/Debug/net8.0/02-intMax_intMin
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/02-intMax_intMin/bin/Debug/net8.0/02-intMax_intMin.deps.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/02-intMax_intMin/bin/Debug/net8.0/02-intMax_intMin.runtimeconfig.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/02-intMax_intMin/bin/Debug/net8.0/02-intMax_intMin.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/02-intMax_intMin/bin/Debug/net8.0/02-intMax_intMin.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/02-intMax_intMin/obj/Debug/net8.0/02-intMax_intMin.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/02-intMax_intMin/obj/Debug/net8.0/02-intMax_intMin.AssemblyInfoInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/02-intMax_intMin/obj/Debug/net8.0/02-intMax_intMin.AssemblyInfo.cs
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/02-intMax_intMin/obj/Debug/net8.0/02-intMax_intMin.csproj.CoreCompileInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/02-intMax_intMin/obj/Debug/net8.0/02-intMax_intMin.sourcelink.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/02-intMax_intMin/obj/Debug/net8.0/02-intMax_intMin.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/02-intMax_intMin/obj/Debug/net8.0/refint/02-intMax_intMin.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/02-intMax_intMin/obj/Debug/net8.0/02-intMax_intMin.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/02-intMax_intMin/obj/Debug/net8.0/02-intMax_intMin.genruntimeconfig.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/02-intMax_intMin/obj/Debug/net8.0/ref/02-intMax_intMin.dll
