@@ -68,10 +68,10 @@ Como estudiante de primer año, mi objetivo es compartir recursos educativos val
 
 ## 🧩 Clases Prácticas 
 - **CP #01**
-  - <a href="./Clases Prácticas/CP #01/cp1.pdf">Ejercicios</a>
-  - <a href="./Clases Prácticas/CP #01/Soluciones/cp1_respuestas.pdf">Soluciones</a>
+  - <a href="https://github.com/joserafael0160/MATCOM-Programacion-1/blob/main/Clases%20Pr%C3%A1cticas/CP%20%2301/cp1.pdf">Ejercicios</a>
+  - <a href="https://github.com/joserafael0160/MATCOM-Programacion-1/blob/main/Clases%20Pr%C3%A1cticas/CP%20%2301/Soluciones/cp1_respuestas.pdf">Soluciones</a>
 - **CP #02**
-  - <a href="./Clases Prácticas/CP #02/cp2 - Hello World.pdf">Ejercicios</a>
+  - <a href="https://github.com/joserafael0160/MATCOM-Programacion-1/blob/main/Clases%20Pr%C3%A1cticas/CP%20%2302/cp2%20-%20Hello%20World.pdf">Ejercicios</a>
   - <a href="./Clases Prácticas/CP #02/Soluciones/">Soluciones</a>
   
 <p align="right">(<a href="#top">Volver al inicio 🔝</a>)</p>
