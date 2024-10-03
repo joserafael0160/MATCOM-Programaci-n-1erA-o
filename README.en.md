@@ -88,9 +88,9 @@ As a first-year student, my goal is to share valuable educational resources that
 ## 🧞 Commands
 |      | Command   | Action                                         |
 | :--- | :-------- | :-------------------------------------------- |
-| ⚙️    | dotnet run     | Runs the application.           |
-| ⚙️    | dotnet new console -o "project"   | Creates a new console application.    |
-| ⚙️    | dotnet script archivoConCodigo    | Runs a C# script from the specified file. |
+| ⚙️    | `dotnet run`     | Runs the application.           |
+| ⚙️    | `dotnet new console -o "project"`   | Creates a new console application.    |
+| ⚙️    | `dotnet script archivoConCodigo`    | Runs a C# script from the specified file. |
 
 <p align="right">(<a href="#top">Back to the top 🔝</a>)</p>
 
@@ -103,11 +103,11 @@ If you have any suggestions that could improve any solution, please make a [_for
 Here's a quick guide:
 
 1. Make a [_fork_](https://github.com/joserafael0160/MATCOM-Programacion-1/fork) of the Project
-2. Clone your [_fork_](https://github.com/joserafael0160/MATCOM-Programacion-1/fork) (git clone <URL del fork>)
-3. Add the original repository as a remote (git remote add upstream <URL del repositorio original>)
-4. Create your Feature Branch (git switch -c feature/CaracteristicaNueva)
-5. Make your Changes (git commit -m 'Add: alguna CaracterísticaNueva')
-6. Push to the Branch (git push origin feature/CaracteristicaNueva)
+2. Clone your [_fork_](https://github.com/joserafael0160/MATCOM-Programacion-1/fork) (`git clone <URL del fork>`)
+3. Add the original repository as a remote (`git remote add upstream <URL del repositorio original>`)
+4. Create your Feature Branch (`git switch -c feature/CaracteristicaNueva`)
+5. Make your Changes (git commit -m `Add: alguna CaracterísticaNueva`)
+6. Push to the Branch (`git push origin feature/CaracteristicaNueva`)
 7. Open a [_pull request_](https://github.com/joserafael0160/MATCOM-Programacion-1/pulls)
 
 <p align="right">(<a href="#top">Back to the top 🔝</a>)</p>
