@@ -1,0 +1,15 @@
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/07-promedio/bin/Debug/net8.0/07-promedio
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/07-promedio/bin/Debug/net8.0/07-promedio.deps.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/07-promedio/bin/Debug/net8.0/07-promedio.runtimeconfig.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/07-promedio/bin/Debug/net8.0/07-promedio.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/07-promedio/bin/Debug/net8.0/07-promedio.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/07-promedio/obj/Debug/net8.0/07-promedio.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/07-promedio/obj/Debug/net8.0/07-promedio.AssemblyInfoInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/07-promedio/obj/Debug/net8.0/07-promedio.AssemblyInfo.cs
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/07-promedio/obj/Debug/net8.0/07-promedio.csproj.CoreCompileInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/07-promedio/obj/Debug/net8.0/07-promedio.sourcelink.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/07-promedio/obj/Debug/net8.0/07-promedio.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/07-promedio/obj/Debug/net8.0/refint/07-promedio.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/07-promedio/obj/Debug/net8.0/07-promedio.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/07-promedio/obj/Debug/net8.0/07-promedio.genruntimeconfig.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/07-promedio/obj/Debug/net8.0/ref/07-promedio.dll
