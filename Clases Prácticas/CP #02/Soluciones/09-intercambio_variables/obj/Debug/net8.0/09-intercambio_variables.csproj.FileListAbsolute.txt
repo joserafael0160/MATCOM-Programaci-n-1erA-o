@@ -1,0 +1,15 @@
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/09-intercambio_variables/bin/Debug/net8.0/09-intercambio_variables
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/09-intercambio_variables/bin/Debug/net8.0/09-intercambio_variables.deps.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/09-intercambio_variables/bin/Debug/net8.0/09-intercambio_variables.runtimeconfig.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/09-intercambio_variables/bin/Debug/net8.0/09-intercambio_variables.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/09-intercambio_variables/bin/Debug/net8.0/09-intercambio_variables.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/09-intercambio_variables/obj/Debug/net8.0/09-intercambio_variables.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/09-intercambio_variables/obj/Debug/net8.0/09-intercambio_variables.AssemblyInfoInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/09-intercambio_variables/obj/Debug/net8.0/09-intercambio_variables.AssemblyInfo.cs
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/09-intercambio_variables/obj/Debug/net8.0/09-intercambio_variables.csproj.CoreCompileInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/09-intercambio_variables/obj/Debug/net8.0/09-intercambio_variables.sourcelink.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/09-intercambio_variables/obj/Debug/net8.0/09-intercambio_variables.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/09-intercambio_variables/obj/Debug/net8.0/refint/09-intercambio_variables.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/09-intercambio_variables/obj/Debug/net8.0/09-intercambio_variables.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/09-intercambio_variables/obj/Debug/net8.0/09-intercambio_variables.genruntimeconfig.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/09-intercambio_variables/obj/Debug/net8.0/ref/09-intercambio_variables.dll
