@@ -1,0 +1,15 @@
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/11-ecuacion_cuadratica/bin/Debug/net8.0/11-ecuacion_cuadratica
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/11-ecuacion_cuadratica/bin/Debug/net8.0/11-ecuacion_cuadratica.deps.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/11-ecuacion_cuadratica/bin/Debug/net8.0/11-ecuacion_cuadratica.runtimeconfig.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/11-ecuacion_cuadratica/bin/Debug/net8.0/11-ecuacion_cuadratica.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/11-ecuacion_cuadratica/bin/Debug/net8.0/11-ecuacion_cuadratica.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/11-ecuacion_cuadratica/obj/Debug/net8.0/11-ecuacion_cuadratica.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/11-ecuacion_cuadratica/obj/Debug/net8.0/11-ecuacion_cuadratica.AssemblyInfoInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/11-ecuacion_cuadratica/obj/Debug/net8.0/11-ecuacion_cuadratica.AssemblyInfo.cs
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/11-ecuacion_cuadratica/obj/Debug/net8.0/11-ecuacion_cuadratica.csproj.CoreCompileInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/11-ecuacion_cuadratica/obj/Debug/net8.0/11-ecuacion_cuadratica.sourcelink.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/11-ecuacion_cuadratica/obj/Debug/net8.0/11-ecuacion_cuadratica.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/11-ecuacion_cuadratica/obj/Debug/net8.0/refint/11-ecuacion_cuadratica.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/11-ecuacion_cuadratica/obj/Debug/net8.0/11-ecuacion_cuadratica.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/11-ecuacion_cuadratica/obj/Debug/net8.0/11-ecuacion_cuadratica.genruntimeconfig.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/11-ecuacion_cuadratica/obj/Debug/net8.0/ref/11-ecuacion_cuadratica.dll
