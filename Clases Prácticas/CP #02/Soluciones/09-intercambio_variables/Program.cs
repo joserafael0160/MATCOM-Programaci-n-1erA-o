@@ -8,15 +8,17 @@ class Program
     int a = 5;
     int b = 9;
     /*
-      1-  Con variable auxiliar
+      1 - Con variable auxiliar
           int c = a;
           a = b;
           b = c;
       
-      2-  a = a + b
+      2 - Sin variable auxiliar
+          a = a + b
           b = b - a
           a = a - b 
     */
+
     a = a + b;
     b = a - b;
     a = a - b;
