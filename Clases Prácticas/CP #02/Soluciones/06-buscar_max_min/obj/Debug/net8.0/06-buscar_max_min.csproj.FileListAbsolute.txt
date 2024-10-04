@@ -1,0 +1,15 @@
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/06-buscar_max_min/obj/Debug/net8.0/06-buscar_max_min.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/06-buscar_max_min/obj/Debug/net8.0/06-buscar_max_min.AssemblyInfoInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/06-buscar_max_min/obj/Debug/net8.0/06-buscar_max_min.AssemblyInfo.cs
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/06-buscar_max_min/obj/Debug/net8.0/06-buscar_max_min.csproj.CoreCompileInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/06-buscar_max_min/obj/Debug/net8.0/06-buscar_max_min.sourcelink.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/06-buscar_max_min/bin/Debug/net8.0/06-buscar_max_min
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/06-buscar_max_min/bin/Debug/net8.0/06-buscar_max_min.deps.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/06-buscar_max_min/bin/Debug/net8.0/06-buscar_max_min.runtimeconfig.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/06-buscar_max_min/bin/Debug/net8.0/06-buscar_max_min.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/06-buscar_max_min/bin/Debug/net8.0/06-buscar_max_min.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/06-buscar_max_min/obj/Debug/net8.0/06-buscar_max_min.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/06-buscar_max_min/obj/Debug/net8.0/refint/06-buscar_max_min.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/06-buscar_max_min/obj/Debug/net8.0/06-buscar_max_min.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/06-buscar_max_min/obj/Debug/net8.0/06-buscar_max_min.genruntimeconfig.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/06-buscar_max_min/obj/Debug/net8.0/ref/06-buscar_max_min.dll
