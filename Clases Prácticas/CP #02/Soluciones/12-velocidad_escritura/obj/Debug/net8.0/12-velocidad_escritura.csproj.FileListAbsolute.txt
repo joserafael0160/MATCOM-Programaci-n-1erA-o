@@ -1,0 +1,15 @@
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/12-velocidad_escritura/bin/Debug/net8.0/12-velocidad_escritura
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/12-velocidad_escritura/bin/Debug/net8.0/12-velocidad_escritura.deps.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/12-velocidad_escritura/bin/Debug/net8.0/12-velocidad_escritura.runtimeconfig.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/12-velocidad_escritura/bin/Debug/net8.0/12-velocidad_escritura.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/12-velocidad_escritura/bin/Debug/net8.0/12-velocidad_escritura.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/12-velocidad_escritura/obj/Debug/net8.0/12-velocidad_escritura.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/12-velocidad_escritura/obj/Debug/net8.0/12-velocidad_escritura.AssemblyInfoInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/12-velocidad_escritura/obj/Debug/net8.0/12-velocidad_escritura.AssemblyInfo.cs
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/12-velocidad_escritura/obj/Debug/net8.0/12-velocidad_escritura.csproj.CoreCompileInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/12-velocidad_escritura/obj/Debug/net8.0/12-velocidad_escritura.sourcelink.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/12-velocidad_escritura/obj/Debug/net8.0/12-velocidad_escritura.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/12-velocidad_escritura/obj/Debug/net8.0/refint/12-velocidad_escritura.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/12-velocidad_escritura/obj/Debug/net8.0/12-velocidad_escritura.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/12-velocidad_escritura/obj/Debug/net8.0/12-velocidad_escritura.genruntimeconfig.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/12-velocidad_escritura/obj/Debug/net8.0/ref/12-velocidad_escritura.dll
