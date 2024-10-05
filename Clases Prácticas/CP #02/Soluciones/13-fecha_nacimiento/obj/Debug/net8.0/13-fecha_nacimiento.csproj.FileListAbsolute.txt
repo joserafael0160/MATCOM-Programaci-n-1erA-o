@@ -1,0 +1,15 @@
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/13-fecha_nacimiento/bin/Debug/net8.0/13-fecha_nacimiento
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/13-fecha_nacimiento/bin/Debug/net8.0/13-fecha_nacimiento.deps.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/13-fecha_nacimiento/bin/Debug/net8.0/13-fecha_nacimiento.runtimeconfig.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/13-fecha_nacimiento/bin/Debug/net8.0/13-fecha_nacimiento.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/13-fecha_nacimiento/bin/Debug/net8.0/13-fecha_nacimiento.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/13-fecha_nacimiento/obj/Debug/net8.0/13-fecha_nacimiento.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/13-fecha_nacimiento/obj/Debug/net8.0/13-fecha_nacimiento.AssemblyInfoInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/13-fecha_nacimiento/obj/Debug/net8.0/13-fecha_nacimiento.AssemblyInfo.cs
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/13-fecha_nacimiento/obj/Debug/net8.0/13-fecha_nacimiento.csproj.CoreCompileInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/13-fecha_nacimiento/obj/Debug/net8.0/13-fecha_nacimiento.sourcelink.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/13-fecha_nacimiento/obj/Debug/net8.0/13-fecha_nacimiento.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/13-fecha_nacimiento/obj/Debug/net8.0/refint/13-fecha_nacimiento.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/13-fecha_nacimiento/obj/Debug/net8.0/13-fecha_nacimiento.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/13-fecha_nacimiento/obj/Debug/net8.0/13-fecha_nacimiento.genruntimeconfig.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/13-fecha_nacimiento/obj/Debug/net8.0/ref/13-fecha_nacimiento.dll
