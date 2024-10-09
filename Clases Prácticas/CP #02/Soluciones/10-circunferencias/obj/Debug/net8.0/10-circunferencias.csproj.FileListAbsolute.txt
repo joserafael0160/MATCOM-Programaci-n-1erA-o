@@ -1,0 +1,15 @@
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/10-circunferencias/bin/Debug/net8.0/10-circunferencias
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/10-circunferencias/bin/Debug/net8.0/10-circunferencias.deps.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/10-circunferencias/bin/Debug/net8.0/10-circunferencias.runtimeconfig.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/10-circunferencias/bin/Debug/net8.0/10-circunferencias.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/10-circunferencias/bin/Debug/net8.0/10-circunferencias.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/10-circunferencias/obj/Debug/net8.0/10-circunferencias.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/10-circunferencias/obj/Debug/net8.0/10-circunferencias.AssemblyInfoInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/10-circunferencias/obj/Debug/net8.0/10-circunferencias.AssemblyInfo.cs
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/10-circunferencias/obj/Debug/net8.0/10-circunferencias.csproj.CoreCompileInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/10-circunferencias/obj/Debug/net8.0/10-circunferencias.sourcelink.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/10-circunferencias/obj/Debug/net8.0/10-circunferencias.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/10-circunferencias/obj/Debug/net8.0/refint/10-circunferencias.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/10-circunferencias/obj/Debug/net8.0/10-circunferencias.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/10-circunferencias/obj/Debug/net8.0/10-circunferencias.genruntimeconfig.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #02/Soluciones/10-circunferencias/obj/Debug/net8.0/ref/10-circunferencias.dll
