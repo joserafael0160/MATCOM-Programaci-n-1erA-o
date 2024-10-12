@@ -1,0 +1,5 @@
+Estos capítulos son una versión preliminar que forman parte del libro en preparación para estudiantes de Ciencia de la Computación de la Universidad de la Habana.
+
+Queda prohibido su uso con caracter lucrativo sin el consentimiento de los autores o su utilización ocultando la autoría de los mismos
+
+Se agradece el envío de cualquier errata detectada.
