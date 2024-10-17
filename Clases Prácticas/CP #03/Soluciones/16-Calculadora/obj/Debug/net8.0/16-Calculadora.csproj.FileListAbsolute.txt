@@ -1,0 +1,15 @@
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/16-Calculadora/bin/Debug/net8.0/16-Calculadora
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/16-Calculadora/bin/Debug/net8.0/16-Calculadora.deps.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/16-Calculadora/bin/Debug/net8.0/16-Calculadora.runtimeconfig.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/16-Calculadora/bin/Debug/net8.0/16-Calculadora.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/16-Calculadora/bin/Debug/net8.0/16-Calculadora.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/16-Calculadora/obj/Debug/net8.0/16-Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/16-Calculadora/obj/Debug/net8.0/16-Calculadora.AssemblyInfoInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/16-Calculadora/obj/Debug/net8.0/16-Calculadora.AssemblyInfo.cs
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/16-Calculadora/obj/Debug/net8.0/16-Calculadora.csproj.CoreCompileInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/16-Calculadora/obj/Debug/net8.0/16-Calculadora.sourcelink.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/16-Calculadora/obj/Debug/net8.0/16-Calculadora.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/16-Calculadora/obj/Debug/net8.0/refint/16-Calculadora.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/16-Calculadora/obj/Debug/net8.0/16-Calculadora.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/16-Calculadora/obj/Debug/net8.0/16-Calculadora.genruntimeconfig.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/16-Calculadora/obj/Debug/net8.0/ref/16-Calculadora.dll
