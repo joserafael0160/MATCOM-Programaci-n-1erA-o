@@ -54,7 +54,7 @@
 ## 📜 Acerca Del Repositorio 
 Hola, soy **José Rafael** (C112) 👋.
 
-Este repositorio contiene los **ejercicios y mis soluciones** de las clases prácticas que recibo en la Facultad de Matemática y Computación (MATCOM) de la Universidad de La Habana (UH). 
+Este repositorio contiene los **ejercicios y mis soluciones** de las clases prácticas que recibo en la Facultad de Matemática y Computación (MATCOM) de la Universidad de La Habana (UH) curso 2024 - 2025. 
 
 Como estudiante de primer año, mi objetivo es compartir recursos educativos valiosos que puedan ayudar a otros estudiantes a comprender mejor los conceptos y técnicas enseñados en nuestras clases 🎓.
 
@@ -68,11 +68,14 @@ Como estudiante de primer año, mi objetivo es compartir recursos educativos val
 
 ## 🧩 Clases Prácticas 
 - **CP #01**
-  - <a href="https://github.com/joserafael0160/MATCOM-Programacion-1/blob/main/Clases%20Pr%C3%A1cticas/CP%20%2301/cp1.pdf">Ejercicios</a>
-  - <a href="https://github.com/joserafael0160/MATCOM-Programacion-1/blob/main/Clases%20Pr%C3%A1cticas/CP%20%2301/Soluciones/cp1_respuestas.pdf">Soluciones</a>
+  - [Ejercicios](https://github.com/joserafael0160/MATCOM-Programacion-1/blob/main/Clases%20Pr%C3%A1cticas/CP%20%2301/cp1.pdf)
+  - [Soluciones](https://github.com/joserafael0160/MATCOM-Programacion-1/blob/main/Clases%20Pr%C3%A1cticas/CP%20%2301/Soluciones/cp1_respuestas.pdf)
 - **CP #02**
-  - <a href="https://github.com/joserafael0160/MATCOM-Programacion-1/blob/main/Clases%20Pr%C3%A1cticas/CP%20%2302/cp2%20-%20Hello%20World.pdf">Ejercicios</a>
-  - <a href="https://github.com/joserafael0160/MATCOM-Programacion-1/blob/main/Clases%20Pr%C3%A1cticas/CP%20%2302/Soluciones/">Soluciones</a>
+  - [Ejercicios](https://github.com/joserafael0160/MATCOM-Programacion-1/blob/main/Clases%20Pr%C3%A1cticas/CP%20%2302/cp2%20-%20Hello%20World.pdf)
+  - [Soluciones](https://github.com/joserafael0160/MATCOM-Programacion-1/blob/main/Clases%20Pr%C3%A1cticas/CP%20%2302/Soluciones/)
+- **CP #03**
+  - [Ejercicios](https://github.com/joserafael0160/MATCOM-Programacion-1/blob/main/Clases%20Pr%C3%A1cticas/CP%20%2303/Cp3%20-%20Condicionales.pdf)
+  - [Soluciones](https://github.com/joserafael0160/MATCOM-Programacion-1/tree/main/Clases%20Pr%C3%A1cticas/CP%20%2303/Soluciones)
   
 <p align="right">(<a href="#top">Volver al inicio 🔝</a>)</p>
 
