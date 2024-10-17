@@ -2,7 +2,7 @@
 
 class Calculator
 {
-  static void Main(string[] args) 
+  static void Main(string[] args)
   {
     Console.Write("Introduzca un número: ");
     int num1 = Convert.ToInt32(Console.ReadLine());
@@ -17,15 +17,15 @@ class Calculator
     {
       case "+":
         Console.WriteLine($"{num1} + {num2} = {num1 + num2}");
-      break;
-      
+        break;
+
       case "-":
         Console.WriteLine($"{num1} - {num2} = {num1 - num2}");
-      break;
-      
+        break;
+
       case "*":
         Console.WriteLine($"{num1} x {num2} = {num1 * num2}");
-      break;
+        break;
 
       case "/":
         if (num2 == 0)
@@ -34,11 +34,11 @@ class Calculator
           Environment.Exit(1);
         }
         Console.WriteLine($"{num1} / {num2} = {num1 / num2}");
-      break;
+        break;
 
       default:
         Console.WriteLine("Ha introducido un operador invalido");
-      break;
+        break;
     }
   }
 }
