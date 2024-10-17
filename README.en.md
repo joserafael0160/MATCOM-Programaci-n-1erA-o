@@ -47,6 +47,7 @@
 </div>
 <br>
 
+> [!TIP]
 > If you want to read this readme in Spanish:
 > - [README in Spanish](https://github.com/joserafael0160/MATCOM-Programacion-1/blob/main/README.md)
 
