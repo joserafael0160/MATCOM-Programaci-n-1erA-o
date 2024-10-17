@@ -1,0 +1,15 @@
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/03-ValorAbsoluto/bin/Debug/net8.0/03-ValorAbsoluto
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/03-ValorAbsoluto/bin/Debug/net8.0/03-ValorAbsoluto.deps.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/03-ValorAbsoluto/bin/Debug/net8.0/03-ValorAbsoluto.runtimeconfig.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/03-ValorAbsoluto/bin/Debug/net8.0/03-ValorAbsoluto.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/03-ValorAbsoluto/bin/Debug/net8.0/03-ValorAbsoluto.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/03-ValorAbsoluto/obj/Debug/net8.0/03-ValorAbsoluto.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/03-ValorAbsoluto/obj/Debug/net8.0/03-ValorAbsoluto.AssemblyInfoInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/03-ValorAbsoluto/obj/Debug/net8.0/03-ValorAbsoluto.AssemblyInfo.cs
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/03-ValorAbsoluto/obj/Debug/net8.0/03-ValorAbsoluto.csproj.CoreCompileInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/03-ValorAbsoluto/obj/Debug/net8.0/03-ValorAbsoluto.sourcelink.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/03-ValorAbsoluto/obj/Debug/net8.0/03-ValorAbsoluto.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/03-ValorAbsoluto/obj/Debug/net8.0/refint/03-ValorAbsoluto.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/03-ValorAbsoluto/obj/Debug/net8.0/03-ValorAbsoluto.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/03-ValorAbsoluto/obj/Debug/net8.0/03-ValorAbsoluto.genruntimeconfig.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/03-ValorAbsoluto/obj/Debug/net8.0/ref/03-ValorAbsoluto.dll
