@@ -1,0 +1,15 @@
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/01-Divisibles/bin/Debug/net8.0/01-Divisibles
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/01-Divisibles/bin/Debug/net8.0/01-Divisibles.deps.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/01-Divisibles/bin/Debug/net8.0/01-Divisibles.runtimeconfig.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/01-Divisibles/bin/Debug/net8.0/01-Divisibles.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/01-Divisibles/bin/Debug/net8.0/01-Divisibles.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/01-Divisibles/obj/Debug/net8.0/01-Divisibles.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/01-Divisibles/obj/Debug/net8.0/01-Divisibles.AssemblyInfoInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/01-Divisibles/obj/Debug/net8.0/01-Divisibles.AssemblyInfo.cs
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/01-Divisibles/obj/Debug/net8.0/01-Divisibles.csproj.CoreCompileInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/01-Divisibles/obj/Debug/net8.0/01-Divisibles.sourcelink.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/01-Divisibles/obj/Debug/net8.0/01-Divisibles.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/01-Divisibles/obj/Debug/net8.0/refint/01-Divisibles.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/01-Divisibles/obj/Debug/net8.0/01-Divisibles.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/01-Divisibles/obj/Debug/net8.0/01-Divisibles.genruntimeconfig.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/01-Divisibles/obj/Debug/net8.0/ref/01-Divisibles.dll
