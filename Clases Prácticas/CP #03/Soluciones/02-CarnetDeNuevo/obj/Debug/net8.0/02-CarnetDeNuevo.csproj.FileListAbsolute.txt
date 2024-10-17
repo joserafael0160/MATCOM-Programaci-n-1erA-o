@@ -1,0 +1,15 @@
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/02-CarnetDeNuevo/bin/Debug/net8.0/02-CarnetDeNuevo
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/02-CarnetDeNuevo/bin/Debug/net8.0/02-CarnetDeNuevo.deps.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/02-CarnetDeNuevo/bin/Debug/net8.0/02-CarnetDeNuevo.runtimeconfig.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/02-CarnetDeNuevo/bin/Debug/net8.0/02-CarnetDeNuevo.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/02-CarnetDeNuevo/bin/Debug/net8.0/02-CarnetDeNuevo.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/02-CarnetDeNuevo/obj/Debug/net8.0/02-CarnetDeNuevo.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/02-CarnetDeNuevo/obj/Debug/net8.0/02-CarnetDeNuevo.AssemblyInfoInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/02-CarnetDeNuevo/obj/Debug/net8.0/02-CarnetDeNuevo.AssemblyInfo.cs
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/02-CarnetDeNuevo/obj/Debug/net8.0/02-CarnetDeNuevo.csproj.CoreCompileInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/02-CarnetDeNuevo/obj/Debug/net8.0/02-CarnetDeNuevo.sourcelink.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/02-CarnetDeNuevo/obj/Debug/net8.0/02-CarnetDeNuevo.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/02-CarnetDeNuevo/obj/Debug/net8.0/refint/02-CarnetDeNuevo.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/02-CarnetDeNuevo/obj/Debug/net8.0/02-CarnetDeNuevo.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/02-CarnetDeNuevo/obj/Debug/net8.0/02-CarnetDeNuevo.genruntimeconfig.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/02-CarnetDeNuevo/obj/Debug/net8.0/ref/02-CarnetDeNuevo.dll
