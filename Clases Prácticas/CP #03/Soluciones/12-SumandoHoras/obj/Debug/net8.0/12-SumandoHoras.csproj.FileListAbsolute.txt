@@ -1,0 +1,15 @@
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/12-SumandoHoras/bin/Debug/net8.0/12-SumandoHoras
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/12-SumandoHoras/bin/Debug/net8.0/12-SumandoHoras.deps.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/12-SumandoHoras/bin/Debug/net8.0/12-SumandoHoras.runtimeconfig.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/12-SumandoHoras/bin/Debug/net8.0/12-SumandoHoras.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/12-SumandoHoras/bin/Debug/net8.0/12-SumandoHoras.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/12-SumandoHoras/obj/Debug/net8.0/12-SumandoHoras.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/12-SumandoHoras/obj/Debug/net8.0/12-SumandoHoras.AssemblyInfoInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/12-SumandoHoras/obj/Debug/net8.0/12-SumandoHoras.AssemblyInfo.cs
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/12-SumandoHoras/obj/Debug/net8.0/12-SumandoHoras.csproj.CoreCompileInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/12-SumandoHoras/obj/Debug/net8.0/12-SumandoHoras.sourcelink.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/12-SumandoHoras/obj/Debug/net8.0/12-SumandoHoras.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/12-SumandoHoras/obj/Debug/net8.0/refint/12-SumandoHoras.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/12-SumandoHoras/obj/Debug/net8.0/12-SumandoHoras.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/12-SumandoHoras/obj/Debug/net8.0/12-SumandoHoras.genruntimeconfig.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/12-SumandoHoras/obj/Debug/net8.0/ref/12-SumandoHoras.dll
