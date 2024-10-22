@@ -1,0 +1,15 @@
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/10-ImprimiendoNumeros/bin/Debug/net8.0/10-ImprimiendoNumeros
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/10-ImprimiendoNumeros/bin/Debug/net8.0/10-ImprimiendoNumeros.deps.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/10-ImprimiendoNumeros/bin/Debug/net8.0/10-ImprimiendoNumeros.runtimeconfig.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/10-ImprimiendoNumeros/bin/Debug/net8.0/10-ImprimiendoNumeros.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/10-ImprimiendoNumeros/bin/Debug/net8.0/10-ImprimiendoNumeros.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/10-ImprimiendoNumeros/obj/Debug/net8.0/10-ImprimiendoNumeros.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/10-ImprimiendoNumeros/obj/Debug/net8.0/10-ImprimiendoNumeros.AssemblyInfoInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/10-ImprimiendoNumeros/obj/Debug/net8.0/10-ImprimiendoNumeros.AssemblyInfo.cs
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/10-ImprimiendoNumeros/obj/Debug/net8.0/10-ImprimiendoNumeros.csproj.CoreCompileInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/10-ImprimiendoNumeros/obj/Debug/net8.0/10-ImprimiendoNumeros.sourcelink.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/10-ImprimiendoNumeros/obj/Debug/net8.0/10-ImprimiendoNumeros.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/10-ImprimiendoNumeros/obj/Debug/net8.0/refint/10-ImprimiendoNumeros.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/10-ImprimiendoNumeros/obj/Debug/net8.0/10-ImprimiendoNumeros.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/10-ImprimiendoNumeros/obj/Debug/net8.0/10-ImprimiendoNumeros.genruntimeconfig.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/10-ImprimiendoNumeros/obj/Debug/net8.0/ref/10-ImprimiendoNumeros.dll
