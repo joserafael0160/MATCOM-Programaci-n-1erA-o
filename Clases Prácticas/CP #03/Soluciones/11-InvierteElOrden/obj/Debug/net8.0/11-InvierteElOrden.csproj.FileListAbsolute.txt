@@ -1,0 +1,15 @@
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/11-InvierteElOrden/bin/Debug/net8.0/11-InvierteElOrden
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/11-InvierteElOrden/bin/Debug/net8.0/11-InvierteElOrden.deps.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/11-InvierteElOrden/bin/Debug/net8.0/11-InvierteElOrden.runtimeconfig.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/11-InvierteElOrden/bin/Debug/net8.0/11-InvierteElOrden.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/11-InvierteElOrden/bin/Debug/net8.0/11-InvierteElOrden.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/11-InvierteElOrden/obj/Debug/net8.0/11-InvierteElOrden.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/11-InvierteElOrden/obj/Debug/net8.0/11-InvierteElOrden.AssemblyInfoInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/11-InvierteElOrden/obj/Debug/net8.0/11-InvierteElOrden.AssemblyInfo.cs
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/11-InvierteElOrden/obj/Debug/net8.0/11-InvierteElOrden.csproj.CoreCompileInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/11-InvierteElOrden/obj/Debug/net8.0/11-InvierteElOrden.sourcelink.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/11-InvierteElOrden/obj/Debug/net8.0/11-InvierteElOrden.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/11-InvierteElOrden/obj/Debug/net8.0/refint/11-InvierteElOrden.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/11-InvierteElOrden/obj/Debug/net8.0/11-InvierteElOrden.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/11-InvierteElOrden/obj/Debug/net8.0/11-InvierteElOrden.genruntimeconfig.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #03/Soluciones/11-InvierteElOrden/obj/Debug/net8.0/ref/11-InvierteElOrden.dll
