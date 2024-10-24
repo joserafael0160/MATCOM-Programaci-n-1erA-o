@@ -55,7 +55,7 @@
 ## 📜 About
 Hello, I'm **José Rafael** (C112) 👋.
 
-This repository contains the **exercises and my solutions** from the practical classes I receive at the Faculty of Mathematics and Computing (MATCOM) of the University of Havana (UH) 2024 - 2025 course. 
+This repository contains the **exercises and my solutions** from the practical classes I receive at the Faculty of Mathematics and Computing ([MATCOM](https://github.com/matcom)) of the University of Havana (UH) 2024 - 2025 course. 
 
 As a first-year student, my goal is to share valuable educational resources that can help other students better understand the concepts and techniques taught in our classes 🎓.
 
