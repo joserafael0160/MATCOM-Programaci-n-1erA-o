@@ -4,7 +4,7 @@ Nombre: José Rafael Pérez Rivero (C112)
 Ejercicio:
   Muestre en la consola el siguiente string: ”Hello, World!”.
 **************************************************************
-Complejidad Big O: O(1)
+Complejidad: O(1)
 **************************************************************/
 
 using System;
