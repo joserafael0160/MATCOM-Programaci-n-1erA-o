@@ -1,0 +1,15 @@
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/03-MaxMinAvg/bin/Debug/net8.0/03-MaxMinAvg
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/03-MaxMinAvg/bin/Debug/net8.0/03-MaxMinAvg.deps.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/03-MaxMinAvg/bin/Debug/net8.0/03-MaxMinAvg.runtimeconfig.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/03-MaxMinAvg/bin/Debug/net8.0/03-MaxMinAvg.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/03-MaxMinAvg/bin/Debug/net8.0/03-MaxMinAvg.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/03-MaxMinAvg/obj/Debug/net8.0/03-MaxMinAvg.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/03-MaxMinAvg/obj/Debug/net8.0/03-MaxMinAvg.AssemblyInfoInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/03-MaxMinAvg/obj/Debug/net8.0/03-MaxMinAvg.AssemblyInfo.cs
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/03-MaxMinAvg/obj/Debug/net8.0/03-MaxMinAvg.csproj.CoreCompileInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/03-MaxMinAvg/obj/Debug/net8.0/03-MaxMinAvg.sourcelink.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/03-MaxMinAvg/obj/Debug/net8.0/03-MaxMinAvg.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/03-MaxMinAvg/obj/Debug/net8.0/refint/03-MaxMinAvg.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/03-MaxMinAvg/obj/Debug/net8.0/03-MaxMinAvg.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/03-MaxMinAvg/obj/Debug/net8.0/03-MaxMinAvg.genruntimeconfig.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/03-MaxMinAvg/obj/Debug/net8.0/ref/03-MaxMinAvg.dll
