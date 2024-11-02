@@ -1,4 +1,18 @@
-﻿using System;
+﻿/**************************************************************
+Nombre: José Rafael Pérez Rivero (C112)
+
+Ejercicio:
+    Implemente un programa que lea una secuencia de números de 
+    la consola (uno por línea) hasta que se escriba una línea 
+    en blanco y de estos imprimir:
+    - Mayor
+    - Menor
+    - Promedio
+**************************************************************
+Complejidad: O(n)
+**************************************************************/
+
+using System;
 
 class MaxMinAvg
 {
@@ -28,7 +42,7 @@ class MaxMinAvg
       sum += secuense[i];
     }
 
-    int avg = sum / secuense.Length;
+    double avg = (double)sum / secuense.Length;
 
     Console.WriteLine($"\nMayor: {max}\nMenor: {min}\nPromedio: {avg}");
   }
