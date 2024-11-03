@@ -1,0 +1,15 @@
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/05-Invirtiendo/bin/Debug/net8.0/05-Invirtiendo
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/05-Invirtiendo/bin/Debug/net8.0/05-Invirtiendo.deps.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/05-Invirtiendo/bin/Debug/net8.0/05-Invirtiendo.runtimeconfig.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/05-Invirtiendo/bin/Debug/net8.0/05-Invirtiendo.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/05-Invirtiendo/bin/Debug/net8.0/05-Invirtiendo.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/05-Invirtiendo/obj/Debug/net8.0/05-Invirtiendo.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/05-Invirtiendo/obj/Debug/net8.0/05-Invirtiendo.AssemblyInfoInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/05-Invirtiendo/obj/Debug/net8.0/05-Invirtiendo.AssemblyInfo.cs
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/05-Invirtiendo/obj/Debug/net8.0/05-Invirtiendo.csproj.CoreCompileInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/05-Invirtiendo/obj/Debug/net8.0/05-Invirtiendo.sourcelink.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/05-Invirtiendo/obj/Debug/net8.0/05-Invirtiendo.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/05-Invirtiendo/obj/Debug/net8.0/refint/05-Invirtiendo.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/05-Invirtiendo/obj/Debug/net8.0/05-Invirtiendo.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/05-Invirtiendo/obj/Debug/net8.0/05-Invirtiendo.genruntimeconfig.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/05-Invirtiendo/obj/Debug/net8.0/ref/05-Invirtiendo.dll
