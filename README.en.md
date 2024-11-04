@@ -76,8 +76,10 @@ As a first-year student, my goal is to share valuable educational resources that
   - [Solutions](https://github.com/joserafael0160/MATCOM-Programacion-1/blob/main/Clases%20Pr%C3%A1cticas/CP%20%2302/Soluciones/)
 - **CP #03**
   - [Exercises](https://github.com/joserafael0160/MATCOM-Programacion-1/blob/main/Clases%20Pr%C3%A1cticas/CP%20%2303/Cp3%20-%20Condicionales.pdf)
-  - [Solutions](https://github.com/joserafael0160/MATCOM-Programacion-1/tree/main/Clases%20Pr%C3%A1cticas/CP%20%2303/Soluciones) 
-  
+  - [Solutions](https://github.com/joserafael0160/MATCOM-Programacion-1/tree/main/Clases%20Pr%C3%A1cticas/CP%20%2303/Soluciones)
+- **CP #04**
+  - [Exercises](https://github.com/joserafael0160/MATCOM-Programacion-1/blob/main/Clases%20Pr%C3%A1cticas/CP%20%2304/Cp%204%20-%20Ciclos.pdf)
+  - [Solutions](https://github.com/joserafael0160/MATCOM-Programacion-1/tree/main/Clases%20Pr%C3%A1cticas/CP%20%2304/Soluciones) 
 <p align="right">(<a href="#top">Back to the top 🔝</a>)</p>
 
 ## 🧰 Technologies
