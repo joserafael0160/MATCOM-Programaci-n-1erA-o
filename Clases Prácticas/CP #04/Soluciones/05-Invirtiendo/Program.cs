@@ -12,6 +12,7 @@ Complejidad: O((n / 2) + 1)
 **************************************************************/
 
 using System;
+using System.Collections.Generic;
 
 class ArrayReverser
 {
