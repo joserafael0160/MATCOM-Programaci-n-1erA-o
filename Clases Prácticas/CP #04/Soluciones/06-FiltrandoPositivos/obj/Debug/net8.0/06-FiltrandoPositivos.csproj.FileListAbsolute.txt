@@ -1,0 +1,15 @@
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/06-FiltrandoPositivos/obj/Debug/net8.0/06-FiltrandoPositivos.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/06-FiltrandoPositivos/obj/Debug/net8.0/06-FiltrandoPositivos.AssemblyInfoInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/06-FiltrandoPositivos/obj/Debug/net8.0/06-FiltrandoPositivos.AssemblyInfo.cs
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/06-FiltrandoPositivos/obj/Debug/net8.0/06-FiltrandoPositivos.csproj.CoreCompileInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/06-FiltrandoPositivos/obj/Debug/net8.0/06-FiltrandoPositivos.sourcelink.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/06-FiltrandoPositivos/bin/Debug/net8.0/06-FiltrandoPositivos
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/06-FiltrandoPositivos/bin/Debug/net8.0/06-FiltrandoPositivos.deps.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/06-FiltrandoPositivos/bin/Debug/net8.0/06-FiltrandoPositivos.runtimeconfig.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/06-FiltrandoPositivos/bin/Debug/net8.0/06-FiltrandoPositivos.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/06-FiltrandoPositivos/bin/Debug/net8.0/06-FiltrandoPositivos.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/06-FiltrandoPositivos/obj/Debug/net8.0/06-FiltrandoPositivos.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/06-FiltrandoPositivos/obj/Debug/net8.0/refint/06-FiltrandoPositivos.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/06-FiltrandoPositivos/obj/Debug/net8.0/06-FiltrandoPositivos.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/06-FiltrandoPositivos/obj/Debug/net8.0/06-FiltrandoPositivos.genruntimeconfig.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/06-FiltrandoPositivos/obj/Debug/net8.0/ref/06-FiltrandoPositivos.dll
