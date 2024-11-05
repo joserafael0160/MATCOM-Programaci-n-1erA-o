@@ -1,0 +1,15 @@
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/13-EsPrimo/bin/Debug/net8.0/13-EsPrimo
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/13-EsPrimo/bin/Debug/net8.0/13-EsPrimo.deps.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/13-EsPrimo/bin/Debug/net8.0/13-EsPrimo.runtimeconfig.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/13-EsPrimo/bin/Debug/net8.0/13-EsPrimo.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/13-EsPrimo/bin/Debug/net8.0/13-EsPrimo.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/13-EsPrimo/obj/Debug/net8.0/13-EsPrimo.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/13-EsPrimo/obj/Debug/net8.0/13-EsPrimo.AssemblyInfoInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/13-EsPrimo/obj/Debug/net8.0/13-EsPrimo.AssemblyInfo.cs
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/13-EsPrimo/obj/Debug/net8.0/13-EsPrimo.csproj.CoreCompileInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/13-EsPrimo/obj/Debug/net8.0/13-EsPrimo.sourcelink.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/13-EsPrimo/obj/Debug/net8.0/13-EsPrimo.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/13-EsPrimo/obj/Debug/net8.0/refint/13-EsPrimo.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/13-EsPrimo/obj/Debug/net8.0/13-EsPrimo.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/13-EsPrimo/obj/Debug/net8.0/13-EsPrimo.genruntimeconfig.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/13-EsPrimo/obj/Debug/net8.0/ref/13-EsPrimo.dll
