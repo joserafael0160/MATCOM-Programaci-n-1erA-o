@@ -1,0 +1,15 @@
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/16-EsPalindromo/bin/Debug/net8.0/16-EsPalindromo
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/16-EsPalindromo/bin/Debug/net8.0/16-EsPalindromo.deps.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/16-EsPalindromo/bin/Debug/net8.0/16-EsPalindromo.runtimeconfig.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/16-EsPalindromo/bin/Debug/net8.0/16-EsPalindromo.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/16-EsPalindromo/bin/Debug/net8.0/16-EsPalindromo.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/16-EsPalindromo/obj/Debug/net8.0/16-EsPalindromo.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/16-EsPalindromo/obj/Debug/net8.0/16-EsPalindromo.AssemblyInfoInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/16-EsPalindromo/obj/Debug/net8.0/16-EsPalindromo.AssemblyInfo.cs
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/16-EsPalindromo/obj/Debug/net8.0/16-EsPalindromo.csproj.CoreCompileInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/16-EsPalindromo/obj/Debug/net8.0/16-EsPalindromo.sourcelink.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/16-EsPalindromo/obj/Debug/net8.0/16-EsPalindromo.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/16-EsPalindromo/obj/Debug/net8.0/refint/16-EsPalindromo.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/16-EsPalindromo/obj/Debug/net8.0/16-EsPalindromo.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/16-EsPalindromo/obj/Debug/net8.0/16-EsPalindromo.genruntimeconfig.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/16-EsPalindromo/obj/Debug/net8.0/ref/16-EsPalindromo.dll
