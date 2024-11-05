@@ -77,7 +77,10 @@ Como estudiante de primer año, mi objetivo es compartir recursos educativos val
 - **CP #03**
   - [Ejercicios](https://github.com/joserafael0160/MATCOM-Programacion-1/blob/main/Clases%20Pr%C3%A1cticas/CP%20%2303/Cp3%20-%20Condicionales.pdf)
   - [Soluciones](https://github.com/joserafael0160/MATCOM-Programacion-1/tree/main/Clases%20Pr%C3%A1cticas/CP%20%2303/Soluciones)
-  
+- **CP #04**
+  - [Ejercicios](https://github.com/joserafael0160/MATCOM-Programacion-1/blob/main/Clases%20Pr%C3%A1cticas/CP%20%2304/Cp%204%20-%20Ciclos.pdf)
+  - [Soluciones](https://github.com/joserafael0160/MATCOM-Programacion-1/tree/main/Clases%20Pr%C3%A1cticas/CP%20%2304/Soluciones)
+    
 <p align="right">(<a href="#top">Volver al inicio 🔝</a>)</p>
 
 ## 🧰 Tecnologías
