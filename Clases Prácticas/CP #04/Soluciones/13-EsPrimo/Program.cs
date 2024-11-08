@@ -1,4 +1,4 @@
-﻿/**************************************************************
+/**************************************************************
 Nombre: José Rafael Pérez Rivero (C112)
 
 Ejercicio:
@@ -15,7 +15,7 @@ class Program
 {
   static bool IsPrime(int n)
   {
-    if(n < 2)return false;
+    if (n < 2) return false;
 
     int sqrt = (int)Math.Sqrt(n);
     for (int i = 2; i <= sqrt; i++)
@@ -24,6 +24,7 @@ class Program
     }
     return true;
   }
+
   static void Main(string[] args)
   {
     static string answer(int n) => IsPrime(n) ? $"{n} ✅ Sí es primo" : $"{n} ❌ No es primo";
