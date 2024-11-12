@@ -1,3 +1,13 @@
+/**************************************************************
+Nombre: José Rafael Pérez Rivero (C112)
+
+Ejercicio:
+    Implemente un método que reciba un valor val y añada 
+    dicho valor al final del array a, devolviendo un nuevo 
+    array con el elemento añadido. 
+**************************************************************
+Complejidad: O(n)
+**************************************************************/
 using System;
 
 class PerfectNumberChecker
@@ -5,6 +15,7 @@ class PerfectNumberChecker
   static void Main(string[] args)
   {
     int[] testCases = [1, 2, 28, 13, 14, -2, 0];
+    
     foreach (int i in testCases)
     {
       string answer = Answer(i);
