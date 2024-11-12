@@ -1,0 +1,15 @@
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/15-Substring/bin/Debug/net8.0/15-Substring
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/15-Substring/bin/Debug/net8.0/15-Substring.deps.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/15-Substring/bin/Debug/net8.0/15-Substring.runtimeconfig.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/15-Substring/bin/Debug/net8.0/15-Substring.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/15-Substring/bin/Debug/net8.0/15-Substring.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/15-Substring/obj/Debug/net8.0/15-Substring.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/15-Substring/obj/Debug/net8.0/15-Substring.AssemblyInfoInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/15-Substring/obj/Debug/net8.0/15-Substring.AssemblyInfo.cs
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/15-Substring/obj/Debug/net8.0/15-Substring.csproj.CoreCompileInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/15-Substring/obj/Debug/net8.0/15-Substring.sourcelink.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/15-Substring/obj/Debug/net8.0/15-Substring.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/15-Substring/obj/Debug/net8.0/refint/15-Substring.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/15-Substring/obj/Debug/net8.0/15-Substring.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/15-Substring/obj/Debug/net8.0/15-Substring.genruntimeconfig.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/15-Substring/obj/Debug/net8.0/ref/15-Substring.dll
