@@ -1,0 +1,15 @@
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/09-AñadiendoAlFinal/obj/Debug/net8.0/09-AñadiendoAlFinal.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/09-AñadiendoAlFinal/obj/Debug/net8.0/09-AñadiendoAlFinal.AssemblyInfoInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/09-AñadiendoAlFinal/obj/Debug/net8.0/09-AñadiendoAlFinal.AssemblyInfo.cs
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/09-AñadiendoAlFinal/obj/Debug/net8.0/09-AñadiendoAlFinal.csproj.CoreCompileInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/09-AñadiendoAlFinal/obj/Debug/net8.0/09-AñadiendoAlFinal.sourcelink.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/09-AñadiendoAlFinal/bin/Debug/net8.0/09-AñadiendoAlFinal
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/09-AñadiendoAlFinal/bin/Debug/net8.0/09-AñadiendoAlFinal.deps.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/09-AñadiendoAlFinal/bin/Debug/net8.0/09-AñadiendoAlFinal.runtimeconfig.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/09-AñadiendoAlFinal/bin/Debug/net8.0/09-AñadiendoAlFinal.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/09-AñadiendoAlFinal/bin/Debug/net8.0/09-AñadiendoAlFinal.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/09-AñadiendoAlFinal/obj/Debug/net8.0/09-AñadiendoAlFinal.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/09-AñadiendoAlFinal/obj/Debug/net8.0/refint/09-AñadiendoAlFinal.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/09-AñadiendoAlFinal/obj/Debug/net8.0/09-AñadiendoAlFinal.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/09-AñadiendoAlFinal/obj/Debug/net8.0/09-AñadiendoAlFinal.genruntimeconfig.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/09-AñadiendoAlFinal/obj/Debug/net8.0/ref/09-AñadiendoAlFinal.dll
