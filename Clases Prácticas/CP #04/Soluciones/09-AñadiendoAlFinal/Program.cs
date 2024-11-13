@@ -10,33 +10,46 @@ Complejidad: O(n)
 **************************************************************/
 using System;
 
-class PerfectNumberChecker
+class ArrayManager
 {
   static void Main(string[] args)
   {
-    int[] testCases = [1, 2, 28, 13, 14, -2, 0];
-    
-    foreach (int i in testCases)
+    List<(int[], int)> testCases =
+    [
+      ([1, 2, 28, 13, 14, -2, 0], 2),
+      ([3, 1, 2, 4, 14, -2, 0], 3),
+      ([], 3)
+    ];
+
+    foreach ((int[] array, int val) in testCases)
     {
-      string answer = Answer(i);
-      Console.WriteLine(answer);
+      Console.WriteLine("Array original:");
+      foreach (int item in array)
+      {
+        Console.Write(item + " ");
+      }
+
+      Console.WriteLine("\n");
+
+      int[] modifiedArray = AddToTheEnd(array, val);
+
+      Console.WriteLine($"Array con el {val} agregado:");
+      foreach (int item in modifiedArray)
+      {
+        Console.Write(item + " ");
+      }
+
+      Console.WriteLine("\n----------------------------------");
+    }
+
+    static int[] AddToTheEnd(int[] array, int val)
+    {
+      int[] newArray = new int[array.Length + 1];
+
+      for (int i = 0; i < array.Length; i++) newArray[i] = array[i];
+      newArray[array.Length] = val;
+
+      return newArray;
     }
   }
-
-  static string Answer(int n) => IsPerfect(n) ? $"✅ Sí, el número {n} es perfecto" : $"❌ No, el número {n} no es perfecto";
-
-  public static bool IsPerfect(int n)
-  {
-    if (n < 1) return false;
-    int divisorsSum = 1;
-    int limit = n / 2;
-
-    for (int i = 2; i <= limit; i++)
-    {
-      if (n % i == 0) divisorsSum += i;
-    }
-
-    return divisorsSum == n;
-  }
-
 }
