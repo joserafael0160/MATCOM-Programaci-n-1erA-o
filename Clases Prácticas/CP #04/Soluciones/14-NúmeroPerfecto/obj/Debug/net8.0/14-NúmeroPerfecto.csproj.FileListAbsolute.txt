@@ -1,0 +1,15 @@
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/14-NúmeroPerfecto/bin/Debug/net8.0/14-NúmeroPerfecto
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/14-NúmeroPerfecto/bin/Debug/net8.0/14-NúmeroPerfecto.deps.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/14-NúmeroPerfecto/bin/Debug/net8.0/14-NúmeroPerfecto.runtimeconfig.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/14-NúmeroPerfecto/bin/Debug/net8.0/14-NúmeroPerfecto.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/14-NúmeroPerfecto/bin/Debug/net8.0/14-NúmeroPerfecto.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/14-NúmeroPerfecto/obj/Debug/net8.0/14-NúmeroPerfecto.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/14-NúmeroPerfecto/obj/Debug/net8.0/14-NúmeroPerfecto.AssemblyInfoInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/14-NúmeroPerfecto/obj/Debug/net8.0/14-NúmeroPerfecto.AssemblyInfo.cs
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/14-NúmeroPerfecto/obj/Debug/net8.0/14-NúmeroPerfecto.csproj.CoreCompileInputs.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/14-NúmeroPerfecto/obj/Debug/net8.0/14-NúmeroPerfecto.sourcelink.json
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/14-NúmeroPerfecto/obj/Debug/net8.0/14-NúmeroPerfecto.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/14-NúmeroPerfecto/obj/Debug/net8.0/refint/14-NúmeroPerfecto.dll
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/14-NúmeroPerfecto/obj/Debug/net8.0/14-NúmeroPerfecto.pdb
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/14-NúmeroPerfecto/obj/Debug/net8.0/14-NúmeroPerfecto.genruntimeconfig.cache
+/home/jose/Estudio/UH MATCOM - Ciencias de la computación/1er año/Programación/Clases Prácticas/CP #04/Soluciones/14-NúmeroPerfecto/obj/Debug/net8.0/ref/14-NúmeroPerfecto.dll
